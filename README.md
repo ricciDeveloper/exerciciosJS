@@ -95,7 +95,3 @@ Usando `fetch` e a API [JSONPlaceholder](https://jsonplaceholder.typicode.com/us
 
 ---
 
-## 📝 Como usar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/exercicios-javascript.git
